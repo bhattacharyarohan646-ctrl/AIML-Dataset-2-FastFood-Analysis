@@ -1,0 +1,11 @@
+restaurant,item,calories,total_fat,sat_fat,trans_fat,cholesterol,sodium,Health_Risk_Score
+Burger King,American Brewhouse King,1550,126,47.0,8.0,805,1820,80.43
+Mcdonalds,20 piece Buttermilk Crispy Chicken Tenders,2430,141,24.0,2.0,475,6080,72.51
+Sonic,Super Sonic Bacon Double Cheeseburger (w/mayo),1280,92,36.0,4.0,260,1630,50.51
+Sonic,Super Sonic Double Cheeseburger W/ Mayo,1220,87,34.0,4.0,245,1520,48.18
+Mcdonalds,40 piece Chicken McNuggets,1770,107,18.0,0.5,295,3370,47.5
+Burger King,Rodeo King,1250,82,31.0,3.5,230,2270,47.44
+Burger King,Farmhouse King,1220,80,28.0,3.0,335,2050,46.46
+Sonic,Super Sonic Jalapeno Double Cheeseburger,1120,76,32.0,4.0,235,1690,45.74
+Sonic,Super Sonic Double Cheeseburger W/ Ketchup,1130,76,32.0,4.0,235,1620,45.62
+Sonic,Super Sonic Double Cheeseburger W/ Mustard,1120,76,32.0,4.0,235,1550,45.36
